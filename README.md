@@ -1,0 +1,2 @@
+# TypeScriptKatas
+Katas for Typescript
